@@ -14,6 +14,8 @@ Koleksi
 7. [Pengembangan Sarana](ebook/Pengembangan Sarana.pdf) - Nasrullah (2017)
 8. [Perpustakaan sebagai Pusat Sumber Belajar di Era Digital](ebook/Perpustakaan sebagai Pusat Sumber Belajar di Era Digital.pdf) - Febriyanti., dkk (2024)
 9. [Strategi Pengembangan Peran Pustakawan](ebook/Strategi Pengembangan Peran Pustakawan.pdf) - Agung Tri Dharma,. dkk (2022)
+10. [LITERATURE REVIEW:PROBLEMATIKA KESIAPAN GURU TERHADAP PENERAPAN KURIKULUM MERDEKA](ebook/LITERATURE REVIEW.pdf) - Anisa Tri Damayanti,. dkk (2022)
+11. [INOVASI LAYANAN PERPUSTAKAAN KHUSUS DALAM EKOSISTEM E-RESEARCH DALAM MENDUKUNG OPEN SCIENCE: STUDI KASUS PERPUSTAKAAN PDDI LIPI](ebook/INOVASI LAYANAN PERPUSTAKAAN KHUSUS.pdf) - Mohamad Djaenudin, Cahyo Trianggoro (2020)
 
 ---
 *powered by GitHub pages*
