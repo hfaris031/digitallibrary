@@ -10,6 +10,7 @@ Koleksi
 3. [Efektivitas Pelayanan](ebook/Efektivitas Pelayanan.pdf) - Marsya Nabila Amir, dkk. (2024)
 4. [Optimalisasi Pelayanan](ebook/Optimalisasi Pelayanan.pdf) - M. Ubaidillah Ridwanulloh, dkk. (2024)
 5. [Optimasi Layanan Online](ebook/OPTIMALISASI LAYANAN ONLINE PERPUSTAKAAN NASIONAL.pdf) - Dian Utami (2022)
+6. [Optimasi Teknologi informasi](ebook/OPTIMALISASI TEKNOLOGI INFORMASI UNTUK MENINGKATKAN.pdf) - Nico Prasetiyo, Moh Nur Fauzi (2025)
 ---
 
 *powered by GitHub pages*
