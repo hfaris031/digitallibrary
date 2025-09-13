@@ -6,7 +6,7 @@ Berikut ini adalah koleksi yang dimiliki :
 
 Koleksi
 1. [Etika Informasi](ebook/garuda2590562.pdf) - Sulistyo Basuki (2019)
-2. [Ringkasan Kuliah Umum](ebook/Rinngkasan kuliah umum.pdf) - Prof. Dr. Tengku Siti Meriam (2025)
+2. [Ringkasan Kuliah Umum](ebook/Rinnkasan.pdf) - Dr. Tengku Siti Meriam (2025)
 ---
 
 *powered by GitHub pages*
