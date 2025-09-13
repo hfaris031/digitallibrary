@@ -13,6 +13,7 @@ Koleksi
 6. [Optimasi Teknologi informasi](ebook/Optimasi Teknologi informasi.pdf) - Nico Prasetiyo., Moh Nur Fauzi (2025)
 7. [Pengembangan Sarana](ebook/Pengembangan Sarana.pdf) - Nasrullah (2017)
 8. [Perpustakaan sebagai Pusat Sumber Belajar di Era Digital](ebook/Perpustakaan sebagai Pusat Sumber Belajar di Era Digital.pdf) - Febriyanti., dkk (2024)
+9. [Strategi Pengembangan Peran Pustakawan](ebook/Strategi Pengembangan Peran Pustakawan.pdf) - Agung Tri Dharma (2022)
 ---
 
 *powered by GitHub pages*
