@@ -18,5 +18,5 @@ Koleksi
 11. [INOVASI LAYANAN PERPUSTAKAAN KHUSUS DALAM EKOSISTEM E-RESEARCH DALAM MENDUKUNG OPEN SCIENCE: STUDI KASUS PERPUSTAKAAN PDDI LIPI](ebook/INOVASI LAYANAN PERPUSTAKAAN KHUSUS.pdf) - Mohamad Djaenudin, Cahyo Trianggoro (2020)
 
 ---
-[Halaman1].(webti/halaman1.html)
+[Halaman1](webti/halaman1.html)
 *powered by GitHub pages*
